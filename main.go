@@ -1,12 +1,9 @@
 package main
 
 import (
-	"fmt"
-
-	"github.com/Oyatillohgayratov/test_repo/greeting"
+	"github.com/Oyatillohgayratov/test_repo/user"
 )
 
 func main(){
-	fmt.Println(greeting.Green())
-	fmt.Println("qwerewqd")
+	user.Validate()
 }
