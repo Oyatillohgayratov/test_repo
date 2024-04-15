@@ -8,4 +8,5 @@ import (
 
 func main(){
 	fmt.Println(greeting.Green())
+	fmt.Println("qwerewqd")
 }
